@@ -1,6 +1,7 @@
 plugins {
     id 'com.android.application'
     id 'org.jetbrains.kotlin.android'
+    id 'kotlin-kapt'
 }
 
 android {
@@ -10,7 +11,7 @@ android {
     }
 
     namespace 'com.example.lovetest'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.example.lovetest"
