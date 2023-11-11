@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">LoveTest</string>
+    <string name="main_tile">Let\'s find out\nyour love type!</string>
+    <string name="question">There were favorite flowers\n
+                            in the flower vase.\n
+                            As time goes, the flowers\n
+                            have all withered.\n
+                            What are you going to do with that?
+    </string>
 </resources>
